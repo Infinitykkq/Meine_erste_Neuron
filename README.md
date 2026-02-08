@@ -1,2 +1,12 @@
-# Meine_erste_Neuron
-Ein einfaches C#-Neuron, das Kilometer in Meilen umrechnet.  Grundlegende Implementierung eines Neurons mit Lernalgorithmus in C#.  Lernprojekt: Einfaches künstliches Neuron in C#.
+# Simple Neuron in C#
+
+This project demonstrates a simple single-weight neuron
+trained to convert kilometers to miles.
+
+## Features
+- Training via error correction
+- Forward and backward conversion
+- Adjustable learning rate (smoothing)
+
+## Example
+100 km → 62.1371 miles
